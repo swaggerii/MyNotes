@@ -1,0 +1,38 @@
+### windows
+../    ..\
+```
+C:\Windows\System32\drivers\etc\hosts
+
+
+iis
+C:\inetpub\logs\LogFiles\W3SVC1
+C:\inetpub\wwwroot\web.config
+```
+
+
+
+### linux
+```
+/conf/defaults.ini
+/etc/passwd
+/etc/shadow
+/root/.bash_history
+/root/.ssh/id_rsa
+/proc/net/fib_trie
+/proc/net/tcp
+/proc/self/cmdline
+
+
+
+### apache
+```
+/var/log/apache2/access.log
+
+
+```
+
+### xmapp
+```
+C:\xampp\apache\logs\
+
+```
